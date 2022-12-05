@@ -92,13 +92,13 @@ LogsDir = "../logs"
 #        Default:     "127.0.0.1;3306;root;root;auth"       - (LoginDatabaseInfo)
 #                     "127.0.0.1;3306;root;root;world"      - (WorldDatabaseInfo)
 #                     "127.0.0.1;3306;root;root;characters" - (CharacterDatabaseInfo)
-#                     "127.0.0.1;3306;root;root;FusionCMS"  - (AzgathEMUDatabaseInfo)
+#                     "127.0.0.1;3306;root;root;point"  	- (AzgathEMUDatabaseInfo)
 
-LoginDatabaseInfo     = "127.0.0.1;3309;root;root;azmop_auth"
-WorldDatabaseInfo     = "127.0.0.1;3309;root;root;azmop_world"
-CharacterDatabaseInfo = "127.0.0.1;3309;root;root;azmop_chars"
-ArchiveDatabaseInfo   = "127.0.0.1;3309;root;root;azmop_archive"
-AzgathEMUDatabaseInfo = "127.0.0.1;3309;root;root;azmop_point"
+LoginDatabaseInfo     = "127.0.0.1;3306;root;root;azmop_auth"
+WorldDatabaseInfo     = "127.0.0.1;3306;root;root;azmop_world"
+CharacterDatabaseInfo = "127.0.0.1;3306;root;root;azmop_chars"
+ArchiveDatabaseInfo   = "127.0.0.1;3306;root;root;azmop_archive"
+AzgathEMUDatabaseInfo = "127.0.0.1;3306;root;root;azmop_point"
 
 #
 #    LoginDatabase.WorkerThreads

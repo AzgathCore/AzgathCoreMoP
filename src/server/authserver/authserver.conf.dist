@@ -137,7 +137,7 @@ WrongPass.BanType = 0
 #                                                                           Unix/Linux)
 #        Default:     "127.0.0.1;3306;azgath;azgath;auth"
 
-LoginDatabaseInfo = "127.0.0.1;3309;root;root;azmop_auth"
+LoginDatabaseInfo = "127.0.0.1;3306;root;root;azmop_auth"
 
 #
 #    LoginDatabase.WorkerThreads
