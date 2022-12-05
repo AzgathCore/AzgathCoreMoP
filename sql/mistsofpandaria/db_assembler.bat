@@ -1,0 +1,1 @@
+copy *.sql db_assembler.sql
